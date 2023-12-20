@@ -13,6 +13,8 @@
 
 <!--<img align="center" src="./images/github-contribution-grid-snake.svg" style="max-width: 90%;">-->
 
+
+## Tech Stacks
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=green)](https://github.com/tracyZhe)
 [![Email](https://img.shields.io/badge/QQEmail-ea4335?style=flat-square&logo=Mail.Ru)](424133879@qq.com)
 [![](https://img.shields.io/badge/CSDN-tracyZhe-yellow.svg)](https://blog.csdn.net/weixin_41804512)
@@ -25,13 +27,13 @@
 ![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=Git&logoColor=white)
 
 ![postgresql](https://img.shields.io/badge/-postgresql-000000?style=flat-square&logo=postgresql&logoColor=blue)
-![css](https://img.shields.io/badge/-mongoDB-FFFFFF?style=flat-square&logo=mongodb) 
-![Mysql](https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=mysql&logoColor=black)
+![mongoDB](https://img.shields.io/badge/-mongoDB-F5F5F5?style=flat-square&logo=mongodb) 
+![Mysql](https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=mysql&logoColor=gold)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 ![Nginx](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=Nginx)
 ![Elastic](https://img.shields.io/badge/Elasticsearch-FEC514?style=flat-square&logo=Elastic&logoColor=white)
-![](https://img.shields.io/badge/prometheus-FFFFFF?style=flat-square&logo=prometheus)
+![](https://img.shields.io/badge/prometheus-F5F5F5?style=flat-square&logo=prometheus)
 
 <img height="130px" src="https://github-readme-stats.vercel.app/api?username=tracyZhe&hide_title=true&show_icons=true&hide=issues&include_all_commits=true&count_private=true&theme=graywhite&hide_border=true&bg_color=45,ff7979,ffd479,fffc79,73fa79" alt="tracyZhe's GitHub Stats"> <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=tracyZhe&hide_title=true&layout=compact&theme=graywhite&hide_border=true&bg_color=45,fffc79,73fa79,75f0db" alt="Most Used Languages">
 
